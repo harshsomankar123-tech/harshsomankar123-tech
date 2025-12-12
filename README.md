@@ -10,11 +10,15 @@
 
 - 🔭 I’m currently learning **Android development, DSA, and Open Source**
 
+- - - 👯 I’m looking to collaborate on **Open Source projects**
+
 - 💬 Ask me about **HTML,CSS,Python, JS**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://peppy-vacherin-b30488.netlify.app/)
 
 - 📫 How to reach me **harshsomankar123@gmail.com**
+
+
 
 <br>
 <h3 align="left">Connect with me:</h3>
