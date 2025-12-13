@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently learning **Android development, DSA, and Open Source**
 
-- - - 👯 I’m looking to collaborate on **Open Source projects**
+-  👯 I’m looking to collaborate on **Open Source projects**
 
 - 💬 Ask me about **HTML,CSS,Python, JS**
 
