@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently learning **Android Development, Web Development, DSA, and Open Source**
+- ✨ I'm currently learning **Android Development, Web Development, DSA, and Open Source**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, Android, Python, JavaScript, API Testing**
 - 📫 How to reach me: **harshsomankar123@gmail.com**
