@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://media.giphy.com/media/IIv3NuURRxgJO/giphy.gif" width="600">
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshsomankar123-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -23,18 +24,31 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,kotlin,android,git,github,docker,postman,vscode,firebase" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,kotlin,android,mysql,git,github,docker,postman,vscode,firebase" alt="Tech Stack" />
 </p>
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 📱 Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 📊 Data Science & Analytics
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -85,6 +99,9 @@
   <a href="https://www.linkedin.com/in/harsh-somankar-42b047280/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://x.com/harsh_soma63895">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
   <a href="mailto:harshsomankar123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -102,11 +119,13 @@
 ## 💻 Current Focus
 ```javascript
 const harsh = {
-    currentlyLearning: ["Web Development", "Android Development", "DSA", "Open Source"],
+    currentlyLearning: ["Web Development", "Android Development", "DSA", "Data Science", "Open Source"],
     lookingToCollaborate: "Open Source Projects",
-    askMeAbout: ["Web Dev", "Android", "Python", "JavaScript", "API Testing", "Docker"],
-    webStack: ["HTML", "CSS", "JavaScript"],
-    mobileStack: ["Android", "Kotlin", "Java"],
+    askMeAbout: ["Web Dev", "Android", "Python", "JavaScript", "API Testing", "Docker", "Data Analysis"],
+    webStack: ["HTML", "CSS", "JavaScript", "React"],
+    mobileStack: ["Android", "Kotlin", "Java", "Jetpack Compose", "Kotlin Multiplatform"],
+    dataScience: ["NumPy", "Pandas", "Matplotlib", "Seaborn"],
+    database: ["MySQL", "SQL"],
     tools: ["Docker", "Postman", "Git", "VS Code", "Android Studio"],
     contributions: "Contributing to open source during Hacktoberfest!",
     funFact: "The best way to learn is by doing!"
@@ -122,6 +141,8 @@ const harsh = {
 **📧 Email:** harshsomankar123@gmail.com
 
 **🔗 LinkedIn:** [Harsh Somankar](https://www.linkedin.com/in/harsh-somankar-42b047280/)
+
+**🐦 X (Twitter):** [@harsh_soma63895](https://x.com/harsh_soma63895)
 
 **🎖️ Holopin:** [View My Hacktoberfest Badges](https://www.holopin.io/@harshsomankar123tech#badges)
 
