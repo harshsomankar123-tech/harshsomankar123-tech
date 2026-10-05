@@ -12,88 +12,12 @@
   <img src="https://img.shields.io/github/followers/harshsomankar123-tech?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
-## 🚀 About Me
-
-- ✨ I'm currently learning **Android Development, Web Development, DSA, and Open Source**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, Android, Python, JavaScript, API Testing**
-- 📫 How to reach me: **harshsomankar123@gmail.com**
-- 🏆 Hacktoberfest Contributor
-- ⚡ Fun fact: **"The best way to learn is by doing."**
-
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,kotlin,android,mysql,git,github,docker,postman,vscode,firebase" alt="Tech Stack" />
-</p>
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 📱 Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 📊 Data Science & Analytics
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### 🗄️ Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=harshsomankar123-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com?user=harshsomankar123-tech&theme=dark&hide_border=true&background=0D1117&ring=FF6500&fire=FF6500&currStreakLabel=FF6500)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsomankar123-tech&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=harshsomankar123-tech&theme=darkhub&no-frame=true&row=1&column=7)
 
-## 🎖️ Hacktoberfest Badges
 
-[![Holopin Badges](https://holopin.me/harshsomankar123tech)](https://www.holopin.io/@harshsomankar123tech#badges)
-
-[![View All Badges](https://img.shields.io/badge/View_All_Badges-Holopin-7000FF?style=for-the-badge&logo=holopin&logoColor=white)](https://www.holopin.io/@harshsomankar123tech#badges)
-
-## 📈 Interactive Contribution Graph
-
-[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshsomankar123-tech&bg_color=0d1117&color=58a6ff&line=f97316&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/harshsomankar123-tech)
-
-## 🐍 Contribution Snake Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshsomankar123-tech/harshsomankar123-tech/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshsomankar123-tech/harshsomankar123-tech/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshsomankar123-tech/harshsomankar123-tech/output/github-contribution-grid-snake.svg">
-</picture>
-
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-somankar-42b047280/">
@@ -116,35 +40,21 @@
   </a>
 </p>
 
-## 💻 Current Focus
-```javascript
-const harsh = {
-    currentlyLearning: ["Web Development", "Android Development", "DSA", "Data Science", "Open Source"],
-    lookingToCollaborate: "Open Source Projects",
-    askMeAbout: ["Web Dev", "Android", "Python", "JavaScript", "API Testing", "Docker", "Data Analysis"],
-    webStack: ["HTML", "CSS", "JavaScript", "React"],
-    mobileStack: ["Android", "Kotlin", "Java", "Jetpack Compose", "Kotlin Multiplatform"],
-    dataScience: ["NumPy", "Pandas", "Matplotlib", "Seaborn"],
-    database: ["MySQL", "SQL"],
-    tools: ["Docker", "Postman", "Git", "VS Code", "Android Studio"],
-    contributions: "Contributing to open source during Hacktoberfest!",
-    funFact: "The best way to learn is by doing!"
-};
-```
 
-## 📫 Get in Touch
+
+## Get in Touch
 
 <div align="center">
 
-**💼 GitHub:** [harshsomankar123-tech](https://github.com/harshsomankar123-tech)
+** GitHub:** [harshsomankar123-tech](https://github.com/harshsomankar123-tech)
 
-**📧 Email:** harshsomankar123@gmail.com
+**Email:** harshsomankar123@gmail.com
 
-**🔗 LinkedIn:** [Harsh Somankar](https://www.linkedin.com/in/harsh-somankar-42b047280/)
+** LinkedIn:** [Harsh Somankar](https://www.linkedin.com/in/harsh-somankar-42b047280/)
 
-**🐦 X (Twitter):** [@harsh_soma63895](https://x.com/harsh_soma63895)
+** X (Twitter):** [@harsh_soma63895](https://x.com/harsh_soma63895)
 
-**🎖️ Holopin:** [View My Hacktoberfest Badges](https://www.holopin.io/@harshsomankar123tech#badges)
+**Holopin:** [View My Hacktoberfest Badges](https://www.holopin.io/@harshsomankar123tech#badges)
 
 </div>
 
